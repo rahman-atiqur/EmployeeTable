@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.item{
+  width: 200px;
+  height: 40px;
+  border: 1px solid blue;
+  display: inline-block;
+  padding-top: 12px;
+}
+.bold{
+  font-size: 16px;
+  color:red;
+  font-weight: bold;
+}
+h1{
+  color: blue;
+}
