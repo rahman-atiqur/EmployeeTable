@@ -1,5 +1,5 @@
 import React from "react";
-
+//This is React Functional Component
 const emloyeeList = [
     { fname: "John", lname: "Smith", salary: "$75K", ID: 1001 },
     { fname: "James", lname: "Web", salary: "$120K", ID: 1002 },
